@@ -1,22 +1,14 @@
-<div align="center">
-
 # Alex Bingham
 
 **Engineer · Founder · Fractional CTO**
 
 Building software, data systems, and AI-enabled products.
 
-</div>
-
-<br />
-
-### 🧱 Stack
+### Stack
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react" />
-<br />
-<sub>+ TanStack Query</sub>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react" /><sub>+ TanStack Query</sub>
 
 **Backend**
 
@@ -25,17 +17,13 @@ Building software, data systems, and AI-enabled products.
 **Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=aws" />
-<br />
 <sub>Lambda · Step Functions · EventBridge · SQS · SES</sub>
 
 **AI**
 
 <img src="https://skillicons.dev/icons?i=vercel" />
-<br />
 <sub>Vercel AI SDK · Tool Calling · Agent Workflows</sub>
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=git" />
-<br />
-<sub>Playwright · Turborepo</sub>
+<img src="https://skillicons.dev/icons?i=git" /><sub>Playwright · Turborepo</sub>
