@@ -1,29 +1,27 @@
 # Alex Bingham
-
-**Engineer · Founder · Fractional CTO**
-
+Engineer, founder, and fractional CTO.
 Building software, data systems, and AI-enabled products.
-
 ### Stack
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react" /><sub>+ TanStack Query</sub>
+`TypeScript` `Next.js` `React` `TanStack Query`
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" />
+`Node.js` `PostgreSQL` `Supabase`
 
 **Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=aws" />
-<sub>Lambda · Step Functions · EventBridge · SQS · SES</sub>
+`AWS` `Lambda` `Step Functions` `EventBridge` `SQS` `SES`
 
 **AI**
 
-<img src="https://skillicons.dev/icons?i=vercel" />
-<sub>Vercel AI SDK · Tool Calling · Agent Workflows</sub>
+`Vercel AI SDK` `Tool Calling` `Agent Workflows`
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=git" /><sub>Playwright · Turborepo</sub>
+`Playwright` `Turborepo` `Git` `R`
+
+<br />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,supabase,aws,vercel,git,spotify,r" />
